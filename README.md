@@ -1,2 +1,2 @@
 # Tetris
-The tetris game.
+The tetris game, with C++ and Qt.
